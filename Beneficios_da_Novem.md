@@ -2,6 +2,9 @@
 
 ## Alta Disponibilidade
 A alta disponibilidade garante que seus sistemas continuem funcionando, mesmo se houver interrupções ou eventos inesperados. Isso significa que, na nuvem, seus serviços estarão disponíveis o máximo de tempo possível, e o Azure oferece garantias de tempo de atividade (dependendo do serviço). Essas garantias são formalizadas nos SLAs (Contratos de Nível de Serviço), que estabelecem as expectativas de disponibilidade.
+##### Tabela de SLA da Azure
+![Tabela de SLA da Azure](images\Tabela_SLA_Azure.png)
+
 
 ## Escalabilidade
 Escalabilidade é sobre adaptar os recursos conforme a necessidade. Se a demanda aumentar, você pode facilmente adicionar mais poder de processamento ou armazenamento para atender às necessidades. A parte boa é que você só paga pelo que usa, então, se a demanda diminuir, dá para reduzir os recursos e, consequentemente, os custos. Assim, você tem sempre o controle do que está utilizando sem gastar além do necessário.
@@ -23,3 +26,6 @@ Governança na nuvem é fundamental para garantir que tudo esteja de acordo com 
 
 ## Gerenciabilidade
 Um dos grandes pontos fortes da nuvem é a facilidade de gerenciamento. Você pode automatizar a escalabilidade dos recursos e configurar implantações com modelos pré-definidos, sem precisar configurar tudo manualmente. Existem várias maneiras de gerenciar seu ambiente de nuvem, seja através do portal da Web, usando a linha de comando, APIs ou até o PowerShell. Tudo pensado para facilitar sua vida e manter o controle da infraestrutura de maneira eficiente.
+
+
+[Voltar à Página Principal](README.md)

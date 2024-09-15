@@ -18,6 +18,10 @@ Após acessar o portal do Azure, explore o menu **Todos os serviços** para conh
 - **Banco de Dados**: SQL Database, Cosmos DB, etc.
 - **Armazenamento**: Contas de Armazenamento, Armazenamento de objetos, arquivo e blocos, etc.
 
+### [Benefícios da Nuvem](Beneficios_da_Novem.md)
+### [Tipos de Serviço de Nuvem na Azure](Tipos_de_Serviço_de_Nuvem_na_Azure.md)
+
+
 ## Links Úteis de Estudo
 
 Aqui estão alguns recursos valiosos para aprofundar seus estudos no Azure:
@@ -29,7 +33,14 @@ Aqui estão alguns recursos valiosos para aprofundar seus estudos no Azure:
 
 Para quem busca cursos práticos e gratuitos, recomendo também a [DIO - Digital Innovation One](https://web.dio.me/home), que oferece várias formações e bootcamps, incluindo conteúdos sobre Azure.
 
+## Mentora
+[Valéria Baptista - LinkedIn](https://www.linkedin.com/in/valeriabaptista/)
+
+
 [![DIO](https://hermes.digitalinnovation.one/assets/diome/logo.svg)](https://web.dio.me/home)
 
 ---
 
+
+
+[def]: imgens\Tabela_SLA_Azure.png
