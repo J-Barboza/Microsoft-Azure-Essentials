@@ -3,7 +3,7 @@
 ## Alta Disponibilidade
 A alta disponibilidade garante que seus sistemas continuem funcionando, mesmo se houver interrupções ou eventos inesperados. Isso significa que, na nuvem, seus serviços estarão disponíveis o máximo de tempo possível, e o Azure oferece garantias de tempo de atividade (dependendo do serviço). Essas garantias são formalizadas nos SLAs (Contratos de Nível de Serviço), que estabelecem as expectativas de disponibilidade.
 ##### Tabela de SLA da Azure
-![Tabela de SLA da Azure](images\Tabela_SLA_Azure.png)
+![Tabela de SLA da Azure](https://github.com/J-Barboza/Microsoft-Azure-Essentials/blob/main/images/Tabela_SLA_Azure.png)
 
 
 ## Escalabilidade
