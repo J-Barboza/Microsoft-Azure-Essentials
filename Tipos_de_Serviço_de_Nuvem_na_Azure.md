@@ -4,16 +4,16 @@
 #### IaaS - Infraestrutura como Serviço
 Com IaaS, você pode "alugar" a infraestrutura de TI que precisa, como servidores, máquinas virtuais, armazenamento e redes, tudo de um provedor de nuvem. A vantagem? Você só paga pelo que usar, como se estivesse alugando o espaço e os recursos conforme a necessidade, sem precisar se preocupar em manter essa estrutura fisicamente.
 
-![Tipo Iaas](images\tipo_de_servico_IaaS.png)
+![Tipo Iaas](https://github.com/J-Barboza/Microsoft-Azure-Essentials/blob/main/images/tipo_de_servico_IaaS.png)
 
 
 #### PaaS - Plataforma como Serviço
 O PaaS oferece um ambiente completo para você criar, testar e lançar seus aplicativos sem precisar se preocupar com a infraestrutura (servidores, rede, etc.). É como se você tivesse um espaço pronto para desenvolver seu software, sem perder tempo gerenciando a parte "chata" do sistema.
-![Tipo Paas](images\tipo_de_servico_PaaS.png)
+![Tipo Paas](https://github.com/J-Barboza/Microsoft-Azure-Essentials/blob/main/images/tipo_de_servico_PaaS.png)
 
 #### SaaS - Software como Serviço
 SaaS é quando você usa aplicativos direto na nuvem, acessados pela internet, sem precisar instalar nada no seu computador. Exemplos conhecidos são o Microsoft Office 365, serviços de email e calendários. Você só precisa de uma conexão com a internet, e pronto, tudo funcionando.
-![Tipo Saas](images\tipo_de_servico_SaaS.png)
+![Tipo Saas](https://github.com/J-Barboza/Microsoft-Azure-Essentials/blob/main/images/tipo_de_servico_SaaS.png)
 
 ### Modelo de Responsabilidade Compartilhada
 
@@ -38,7 +38,7 @@ Dependendo do modelo de serviço que você está usando (IaaS, PaaS ou SaaS), su
 - No **PaaS**, o provedor gerencia mais coisas (como o sistema operacional), e você foca no desenvolvimento do seu aplicativo.
 - No **SaaS**, a maior parte das responsabilidades fica com o provedor, e você só se preocupa em usar o aplicativo de forma segura.
 
-![Modelo de serviço compartilhado](images\Modelo_de_responsabilidade_compartilhada.png)
+![Modelo de serviço compartilhado](https://github.com/J-Barboza/Microsoft-Azure-Essentials/blob/main/images/Modelo_de_responsabilidade_compartilhada.png)
 ---
 
 
