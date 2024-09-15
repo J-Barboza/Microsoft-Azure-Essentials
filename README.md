@@ -33,4 +33,3 @@ Para quem busca cursos práticos e gratuitos, recomendo também a [DIO - Digital
 
 ---
 
-Aproveite ao máximo seu aprendizado e explore tudo o que o Azure pode oferecer!
