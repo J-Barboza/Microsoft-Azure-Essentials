@@ -25,6 +25,7 @@ Após acessar o portal do Azure, explore o menu **Todos os serviços** para conh
 
 ### Módulo 2: Arquitetura e Serviços do Azure
 #### [Componentes de Arquitetura](Componentes_de_Arquitetura.md)
+#### [Computação e Rede](Computacao_e_Rede.md)
 
 ### Links Úteis de Estudo
 
