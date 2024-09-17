@@ -27,5 +27,5 @@ Governança na nuvem é fundamental para garantir que tudo esteja de acordo com 
 ## Gerenciabilidade
 Um dos grandes pontos fortes da nuvem é a facilidade de gerenciamento. Você pode automatizar a escalabilidade dos recursos e configurar implantações com modelos pré-definidos, sem precisar configurar tudo manualmente. Existem várias maneiras de gerenciar seu ambiente de nuvem, seja através do portal da Web, usando a linha de comando, APIs ou até o PowerShell. Tudo pensado para facilitar sua vida e manter o controle da infraestrutura de maneira eficiente.
 
-
+---
 [Voltar à Página Principal](README.md)
