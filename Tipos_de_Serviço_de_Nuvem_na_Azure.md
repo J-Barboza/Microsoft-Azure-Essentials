@@ -50,3 +50,6 @@ Dependendo do modelo de serviço que você está usando (IaaS, PaaS ou SaaS), su
 ##### [Infraestrutura IaaS](https://learn.microsoft.com/training/modules/describe-cloud-service-types/2-describe-infrastructure-service)
 ##### [Infraestrutura PaaS](https://learn.microsoft.com/training/modules/describe-cloud-service-types/3-describe-platform-service)
 ##### [Infraestrutura PaaS](https://learn.microsoft.com/training/modules/describe-cloud-service-types/4-describe-software-service)
+
+---
+[Voltar à Página Principal](README.md)

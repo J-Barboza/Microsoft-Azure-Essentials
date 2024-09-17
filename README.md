@@ -18,9 +18,13 @@ Após acessar o portal do Azure, explore o menu **Todos os serviços** para conh
 - **Banco de Dados**: SQL Database, Cosmos DB, etc.
 - **Armazenamento**: Contas de Armazenamento, Armazenamento de objetos, arquivo e blocos, etc.
 
+## Módulo 1: Conceitos de Nuvem
+
 ### [Benefícios da Nuvem](Beneficios_da_Novem.md)
 ### [Tipos de Serviço de Nuvem na Azure](Tipos_de_Serviço_de_Nuvem_na_Azure.md)
 
+## Módulo 2: Arquitetura e Serviços do Azure
+### [Arquitetura e Serviços do Azure](Arquitetura_e_Servicos_do_Azure.md)
 
 ## Links Úteis de Estudo
 
