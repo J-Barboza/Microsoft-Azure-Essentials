@@ -8,8 +8,8 @@
 ---
 
 ## Redundância de Armazenamento
-![Redundância de Armazenamento](images\Redundancia_de_Armazenamento.png)  
-![Redundância de Armazenamento por Região](images\Redundancia_de_Armazenamento_Regiao.png)
+![Redundância de Armazenamento](https://github.com/J-Barboza/Microsoft-Azure-Essentials/blob/develop/images/Redundancia_de_Armazenamento.png)  
+![Redundância de Armazenamento por Região](https://github.com/J-Barboza/Microsoft-Azure-Essentials/blob/develop/images/Redundancia_de_Armazenamento_Regiao.png)
 
 ---
 
@@ -24,12 +24,12 @@
 ---
 
 ## Pontos de Extremidade Públicos do Serviço de Armazenamento
-![Pontos de Extremidade Públicos](images\Pontos_de_Extremidade_de_Armazenamento.png)
+![Pontos de Extremidade Públicos](https://github.com/J-Barboza/Microsoft-Azure-Essentials/blob/develop/images/Pontos_de_Extremidade_de_Armazenamento.png)
 
 ---
 
 ## Camadas de Acesso de Armazenamento
-![Camadas de Acesso de Armazenamento](images\Camadas_de_Acesso_de_Armazenamento.png)
+![Camadas de Acesso de Armazenamento](https://github.com/J-Barboza/Microsoft-Azure-Essentials/blob/develop/images/Camadas_de_Acesso_de_Armazenamento.png)
 
 ---
 
@@ -46,8 +46,8 @@
 - Usado para migração de dados para conformidade ou necessidades regulatórias.
 - Perfeito para locais remotos com conectividade limitada.
 
-![Azure Data Box](images\Azure_Data_Box.png)  
-![Mapa do Azure Data Box](images\Azure_Data_Box_Mapa.png)
+![Azure Data Box](https://github.com/J-Barboza/Microsoft-Azure-Essentials/blob/develop/images/Azure_Data_Box.png)  
+![Mapa do Azure Data Box](https://github.com/J-Barboza/Microsoft-Azure-Essentials/blob/develop/images/Azure_Data_Box_Mapa.png)
 
 ---
 
