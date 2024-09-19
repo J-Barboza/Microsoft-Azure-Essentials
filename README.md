@@ -27,6 +27,7 @@ Após acessar o portal do Azure, explore o menu **Todos os serviços** para conh
 #### [Componentes de Arquitetura](Componentes_de_Arquitetura.md)
 #### [Computação e Rede](Computacao_e_Rede.md)
 #### [Criando Recursos e Dimensionamento de Máquinas Virtuais](Criando_Recursos_e_Dimensionamento_de_VM.md)
+#### [Armazenamento na Azure](Armazenamento_no_Azure.md)
 
 ### Links Úteis de Estudo
 
